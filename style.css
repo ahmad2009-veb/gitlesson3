@@ -10670,6 +10670,10 @@
   display: none;
 }
 
+.wrap {
+  display: wrap;
+}
+
 .fixed {
   position: fixed;
 }
@@ -18851,6 +18855,9 @@
   }
   .m-none {
     display: none;
+  }
+  .m-wrap {
+    display: wrap;
   }
   .m-fixed {
     position: fixed;
