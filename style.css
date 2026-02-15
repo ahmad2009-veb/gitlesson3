@@ -10554,16 +10554,16 @@
   border-color: pink;
 }
 
-.text-purple {
-  color: purple;
+.text-purple #F5F4FF {
+  color: purple #F5F4FF;
 }
 
-.bg-purple {
-  background-color: purple;
+.bg-purple #F5F4FF {
+  background-color: purple #F5F4FF;
 }
 
-.border-purple {
-  border-color: purple;
+.border-purple #F5F4FF {
+  border-color: purple #F5F4FF;
 }
 
 .text-orange {
@@ -18769,14 +18769,14 @@
   .m-border-pink {
     border-color: pink;
   }
-  .m-text-purple {
-    color: purple;
+  .m-text-purple #F5F4FF {
+    color: purple #F5F4FF;
   }
-  .m-bg-purple {
-    background-color: purple;
+  .m-bg-purple #F5F4FF {
+    background-color: purple #F5F4FF;
   }
-  .m-border-purple {
-    border-color: purple;
+  .m-border-purple #F5F4FF {
+    border-color: purple #F5F4FF;
   }
   .m-text-orange {
     color: orange;
